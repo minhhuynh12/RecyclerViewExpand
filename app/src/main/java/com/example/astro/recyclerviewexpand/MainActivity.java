@@ -29,9 +29,10 @@ public class MainActivity extends AppCompatActivity {
 
         List<MainDataItems> list = new ArrayList<>();
         list.add(new MainDataItems("Minh", "Huynh", "24" , "http://icons.iconarchive.com/icons/martz90/circle/512/android-icon.png"));
-        list.add(new MainDataItems("Minh", "Huynh", "24" , "http://icons.iconarchive.com/icons/martz90/circle/512/android-icon.png"));
-        list.add(new MainDataItems("Minh", "Huynh", "24" , "http://icons.iconarchive.com/icons/martz90/circle/512/android-icon.png"));
-        list.add(new MainDataItems("Minh", "Huynh", "24" , "http://icons.iconarchive.com/icons/martz90/circle/512/android-icon.png"));
+        list.add(new MainDataItems("Nam", "Huynh", "24" , "http://icons.iconarchive.com/icons/martz90/circle/512/android-icon.png"));
+        list.add(new MainDataItems("Chau", "Huynh", "24" , "http://icons.iconarchive.com/icons/martz90/circle/512/android-icon.png"));
+        list.add(new MainDataItems("Tinh", "Huynh", "24" , "http://icons.iconarchive.com/icons/martz90/circle/512/android-icon.png"));
+        list.add(new MainDataItems("An", "Huynh", "24" , "http://icons.iconarchive.com/icons/martz90/circle/512/android-icon.png"));
         list.add(new MainDataItems("Minh", "Huynh", "24" , "http://icons.iconarchive.com/icons/martz90/circle/512/android-icon.png"));
 
 
